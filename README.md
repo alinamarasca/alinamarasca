@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+My name is Alina. I am participating in [HackYourFuture Belgium](https://www.hackyourfuture.net) program.
 
 <!--
 **alinamarasca/alinamarasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
