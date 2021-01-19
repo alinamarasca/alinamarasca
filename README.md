@@ -3,6 +3,7 @@
 My name is Alina. I am participating in [HackYourFuture Belgium](https://www.hackyourfuture.net) program.
 
 I am busy with the precourse now: learning how to use **Visual Studio Code** and **GitHub**.
+There is a lot to learn, but it is exciting.
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
