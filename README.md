@@ -1,9 +1,7 @@
 ### Hello!
 
-My name is Alina. I am participating in [HackYourFuture Belgium](https://www.hackyourfuture.net) program.
+My name is Alina. I am a student of [HackYourFuture Belgium](https://www.hackyourfuture.net) course.
 
-I am busy with the precourse now: learning how to use **Visual Studio Code** and **GitHub**.
-There is a lot to learn, but it is exciting.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alinamarasca)](https://github.com/anuraghazra/github-readme-stats)
 
